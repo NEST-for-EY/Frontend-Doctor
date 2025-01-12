@@ -1,0 +1,6 @@
+heartRate: 120
+bloodPressure: 160/100
+temperature: 102.5
+oxygenLevel: 92
+airQuality: 85
+humidity: 70
